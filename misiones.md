@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los palnes de Dr.Doom
+* Investigar los palnes de Dr.Doom.
+* Capturar a Red Skull.
